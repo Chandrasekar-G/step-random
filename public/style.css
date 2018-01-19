@@ -1,0 +1,54 @@
+
+*{
+	box-sizing:border-box;
+}
+
+html,body{
+	width:100%;
+	height:100%;
+}
+
+body{
+	margin:0;
+	overflow:hidden;
+    background-color: #442D4B;
+    	font-family: monospace;
+}
+h1{
+	margin-top:0;
+}
+
+#headline{
+    cursor: pointer;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    color: white;
+    font-size: 100px;
+}
+#randomButtton {
+    width: 197px;
+    height: 74px;
+    box-shadow: 0px 1px 5px 5px #694275;
+    border-radius: 13px;
+    position: absolute;
+    cursor: pointer;
+    bottom: 130px;
+    left: 50%;
+    transform: translateX(-50%);
+    padding: 10px 20px 22px 29px;
+    background-color: #171c2e;
+}
+#randomButtton:hover{
+    box-shadow: 0px 1px 5px 5px #b375c5;
+}
+#logo {
+    position: absolute;
+    width: 250px;
+    height: 250px;
+    top: 70px;
+    left: 50%;
+    transform: translate(-50%);
+    border-radius: 125px;
+}
