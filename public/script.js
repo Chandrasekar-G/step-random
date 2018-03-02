@@ -230,66 +230,54 @@ var headText = new WordShuffler(headline,{
     function generateIdea() {
       do {
         var ideas = [
-            "113215104007",
-            "113215104012",
-            "113215104016",
-            "113215104019",
-            "113215104021",
-            "113215104025",
-            "113215104034",
-            "113215104036",
-            "113215104045",
-            "113215104047",
-            "113215104050",
-            "113215104054",
-            "113215104059",
-            "113215104060",
-            "113215104061",
-            "113215104063",
-            "113215104066",
-            "113215104074",
-            "113215104079",
-            "113215104081",
-            "113215104086",
-            "113215104089",
-            "113215104093",
-            "113215104100",
-            "113215104101",
-            "113215104108",
-            "113215104113",
-            "113215104120",
-            "113215104121",
-            "113215104122",
-            "113215104130",
-            "113215104131",
-            "113215104133",
-            "113215104147",
-            "113215104152",
-            "113215104158",
-            "113215104159",
-            "113215104163",
-            "113215104164",
-            "113215104166",
-            "113215104167",
-            "113215104303",
-            "113215205001",
-            "113215205002",
-            "113215205012",
-            "113215205015",
-            "113215205021",
-            "113215205024",
-            "113215205030",
-            "113215205031",
-            "113215205034",
-            "113215205039",
-            "113215205041",
-            "113215205044",
-            "113215205048",
-            "113215205057",
-            "113215205060",
-            "113215205050",
-            "113215104137",
-            "113215104075"   
+            "A Ram Kumar"
+"Amrish Krishnan"
+"Amritha. V"
+"Anthony Rudin B"
+"Aravindan R"
+"Arokia Praveen J B"
+"D.Sharanya"
+"Deebika S"
+"Eromiya Regees A"
+"Gogul Kumar M"
+"Haerriz R"
+"Hariraagavanthar C R"
+"Harivardhini Balaiya"
+"Harold V Prabhu"
+"Hema Priya M"
+"Jaithun Mahira K Z"
+"Lakshmi Narayanan L"
+"Leander Paul F"
+"M.Packiyaraj"
+"Mani Mozhi M"
+"Muthulakshmi T"
+"Nagaarjun Puthisigamani"
+"Narmada M"
+"Navaneethakrishnan S"
+"Nikhil Xavier John"
+"P.Priya"
+"Pragadeesh Gandhi S"
+"Pragathi S"
+"Pranesh J"
+"Prasanth G"
+"Ravibabu. C"
+"Santhosh A"
+"Saranya B"
+"Sathya Jothi S"
+"Sherina Sundarrajan"
+"Shiva Shankari G"
+"Sivani S S"
+"Soniya S"
+"Supraja D"
+"Surendhar V"
+"Swetha Mathavavasan"
+"Varshini M"
+"Venkatesan G"
+"Vigneshwaran R"
+"Vikash A"
+"Vishnu Priyan M"
+"Yagzan Manjunaath T K"
+"Yoganathan P"
           ]
   
         var randomArrayPosition = Math.floor(Math.random() * ideas.length);
