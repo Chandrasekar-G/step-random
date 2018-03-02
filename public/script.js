@@ -230,53 +230,53 @@ var headText = new WordShuffler(headline,{
     function generateIdea() {
       do {
         var ideas = [
-            "A Ram Kumar"
-"Amrish Krishnan"
-"Amritha. V"
-"Anthony Rudin B"
-"Aravindan R"
-"Arokia Praveen J B"
-"D.Sharanya"
-"Deebika S"
-"Eromiya Regees A"
-"Gogul Kumar M"
-"Haerriz R"
-"Hariraagavanthar C R"
-"Harivardhini Balaiya"
-"Harold V Prabhu"
-"Hema Priya M"
-"Jaithun Mahira K Z"
-"Lakshmi Narayanan L"
-"Leander Paul F"
-"M.Packiyaraj"
-"Mani Mozhi M"
-"Muthulakshmi T"
-"Nagaarjun Puthisigamani"
-"Narmada M"
-"Navaneethakrishnan S"
-"Nikhil Xavier John"
-"P.Priya"
-"Pragadeesh Gandhi S"
-"Pragathi S"
-"Pranesh J"
-"Prasanth G"
-"Ravibabu. C"
-"Santhosh A"
-"Saranya B"
-"Sathya Jothi S"
-"Sherina Sundarrajan"
-"Shiva Shankari G"
-"Sivani S S"
-"Soniya S"
-"Supraja D"
-"Surendhar V"
-"Swetha Mathavavasan"
-"Varshini M"
-"Venkatesan G"
-"Vigneshwaran R"
-"Vikash A"
-"Vishnu Priyan M"
-"Yagzan Manjunaath T K"
+            "A Ram Kumar",
+"Amrish Krishnan",
+"Amritha. V",
+"Anthony Rudin B",
+"Aravindan R",
+"Arokia Praveen J B",
+"D.Sharanya",
+"Deebika S",
+"Eromiya Regees A",
+"Gogul Kumar M",
+"Haerriz R",
+"Hariraagavanthar C R",
+"Harivardhini Balaiya",
+"Harold V Prabhu",
+"Hema Priya M",
+"Jaithun Mahira K Z",
+"Lakshmi Narayanan L",
+"Leander Paul F",
+"M.Packiyaraj",
+"Mani Mozhi M",
+"Muthulakshmi T",
+"Nagaarjun Puthisigamani",
+"Narmada M",
+"Navaneethakrishnan S",
+"Nikhil Xavier John",
+"P.Priya",
+"Pragadeesh Gandhi S",
+"Pragathi S",
+"Pranesh J",
+"Prasanth G",
+"Ravibabu. C",
+"Santhosh A",
+"Saranya B",
+"Sathya Jothi S",
+"Sherina Sundarrajan",
+"Shiva Shankari G",
+"Sivani S S",
+"Soniya S",
+"Supraja D",
+"Surendhar V",
+"Swetha Mathavavasan",
+"Varshini M",
+"Venkatesan G",
+"Vigneshwaran R",
+"Vikash A",
+"Vishnu Priyan M",
+"Yagzan Manjunaath T K",
 "Yoganathan P"
           ]
   
